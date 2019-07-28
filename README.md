@@ -40,5 +40,10 @@ idea  2017.2
 订单详情页
 ![123](img/4.png)
 
- 博客地址：https://blog.csdn.net/qq_33524158
+ 
+ 语雀地址：https://www.yuque.com/chaoyueshikong/project/mivyqz
+ 
+ 码云地址：https://gitee.com/null_926_7922/projects
+
+ csdn博客地址：https://blog.csdn.net/zhu719224032
 
