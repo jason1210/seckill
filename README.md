@@ -41,7 +41,7 @@ idea  2017.2
 ![123](img/4.png)
 
  
- 语雀地址：https://www.yuque.com/chaoyueshikong/project/mivyqz
+ 语雀地址：https://www.yuque.com/chaoyueshikong
  
  码云地址：https://gitee.com/null_926_7922/projects
 
